@@ -1,1 +1,1 @@
-# wg_notifier
+Program that notifies new departments available in WG-Gesucht.
